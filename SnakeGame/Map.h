@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MAP_H
+#define MAP_H
 
 #include "pch.h"
 #include "Position.h"
@@ -28,3 +29,5 @@ public:
 
 	void Drow();
 };
+
+#endif

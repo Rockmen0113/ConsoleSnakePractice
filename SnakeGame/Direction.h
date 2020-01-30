@@ -1,4 +1,5 @@
-#pragma once
+#ifndef DIRECTION_H
+#define DIRECTION_H
 
 enum Direction
 {
@@ -7,3 +8,5 @@ enum Direction
 	Down = 3,
 	Left = 4
 };
+
+#endif

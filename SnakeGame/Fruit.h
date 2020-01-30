@@ -1,4 +1,5 @@
-#pragma once
+#ifndef FRUIT_H
+#define FRUIT_H
 
 #include <iostream>
 #include <cstdlib>
@@ -23,5 +24,6 @@ public:
 	Position generatePositionRange(const Position startPosition,const int width,const int height);
 
 	void Draw();
-	//void Draw(Position startPosition, int width, int height, const Snake &snake);
 };
+
+#endif

@@ -1,4 +1,6 @@
-#pragma once
+#ifndef CONSOLESETTING_H
+#define CONSOLESETTING_H
+
 #include "pch.h"
 #include <windows.h>
 
@@ -37,3 +39,5 @@ public:
 
 	static void GotoXY(int X, int Y);
 };
+
+#endif

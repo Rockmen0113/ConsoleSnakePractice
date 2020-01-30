@@ -1,7 +1,6 @@
 ﻿#include "pch.h"
 #include <iostream>
 #include <thread>
-//#include <gtest/gtest.h>
 
 #include "Map.h"
 #include "Snake.h"
@@ -9,7 +8,7 @@
 #include "Input.h"
 #include "Fruit.h"
 
-int main(int argc, char*argv[])
+int main()
 {
 	ConsoleSetting::ShowCursor(false);
 	Map map(Position(25, 5), 20, 60);
@@ -31,6 +30,5 @@ int main(int argc, char*argv[])
 
 		Sleep(200);
 	}
-	//testing::InitGoogleTest();
 }
 

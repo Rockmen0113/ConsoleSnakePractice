@@ -1,12 +1,6 @@
 #include "pch.h"
 #include "Input.h"
 
-
-//int Input::getKey()
-//{
-//	return inputKey;
-//}
-
 int Input::inputKey = 0;
 Direction Input::oldDirection = Left;
 
@@ -49,10 +43,6 @@ Direction Input::getDirection()
 		{
 			direction = oldDirection;
 		}
-		//while (_kbhit())
-		//{
-		//	_getch();
-		//}
 	}
 
 	oldDirection = direction;

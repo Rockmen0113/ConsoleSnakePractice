@@ -1,4 +1,5 @@
-#pragma once
+#ifndef POSITION_H
+#define POSITION_H
 
 #include "pch.h"
 #include <iostream>
@@ -30,3 +31,6 @@ public:
 	friend bool operator< (const Position &pos1, const Position &pos2);
 	friend bool operator<= (const Position &pos1, const Position &pos2);
 };
+
+
+#endif

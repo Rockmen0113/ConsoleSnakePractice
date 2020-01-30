@@ -1,4 +1,5 @@
-#pragma once
+#ifndef SNAKETAIL_H
+#define SNAKETAIL_H
 
 #include "pch.h"
 #include "Position.h"
@@ -14,3 +15,5 @@ public:
 
 	SnakeTail(Direction direction, Position position);
 };
+
+#endif

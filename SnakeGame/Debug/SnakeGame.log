@@ -1,4 +1,36 @@
-﻿  Snake.cpp
-c:\projects\consolesnake\snakegame\consolesetting.h(25): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
-c:\projects\consolesnake\snakegame\consolesetting.h(39): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
-  SnakeGame.vcxproj -> C:\Projects\ConsoleSnake\SnakeGame\Debug\SnakeGame.exe
+﻿  pch.cpp
+  ConsoleSetting.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(27): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(41): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.cpp(20): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Fruit.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(27): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(41): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+  Input.cpp
+c:\projects\consolesnakegame\snakegame\input.h(15): warning C4091: static : пропускается слева от "Input", когда ни одна переменная не объявлена
+  Map.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(27): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(41): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\map.cpp(45): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(45): warning C4309: =: усечение константного значения
+c:\projects\consolesnakegame\snakegame\map.cpp(49): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(49): warning C4309: =: усечение константного значения
+c:\projects\consolesnakegame\snakegame\map.cpp(56): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(56): warning C4309: =: усечение константного значения
+c:\projects\consolesnakegame\snakegame\map.cpp(60): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(60): warning C4309: =: усечение константного значения
+c:\projects\consolesnakegame\snakegame\map.cpp(67): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(67): warning C4309: =: усечение константного значения
+c:\projects\consolesnakegame\snakegame\map.cpp(71): warning C4305: =: усечение из "Map::Walls" в "char"
+c:\projects\consolesnakegame\snakegame\map.cpp(71): warning C4309: =: усечение константного значения
+  Position.cpp
+  Snake.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(27): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(41): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+  SnakeGame.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(27): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(41): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\input.h(15): warning C4091: static : пропускается слева от "Input", когда ни одна переменная не объявлена
+  SnakeTail.cpp
+  Создание кода...
+  SnakeGame.vcxproj -> C:\Projects\ConsoleSnakeGame\SnakeGame\Debug\SnakeGame.exe

@@ -1,4 +1,5 @@
-#pragma once
+#ifndef INPUT_H
+#define INPUT_H
 
 #include "Direction.h"
 #include "pch.h"
@@ -12,3 +13,5 @@ private:
 public:
 	static Direction getDirection();
 };
+
+#endif

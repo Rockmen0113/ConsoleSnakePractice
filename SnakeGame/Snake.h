@@ -1,4 +1,5 @@
-#pragma once
+#ifndef SNAKE_H
+#define SNAKE_H
 
 #include "pch.h"
 #include <vector>
@@ -34,3 +35,4 @@ public:
 
 	~Snake();
 };
+#endif

@@ -1,9 +1,7 @@
 #include <iostream>
 #include "pch.h"
 
-//#include "Direction.h"
 #include "Snake.h"
-//#include "ConsoleSetting.h"
 
 Snake::Snake()
 {
