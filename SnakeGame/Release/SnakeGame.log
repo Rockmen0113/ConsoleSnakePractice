@@ -1,0 +1,10 @@
+﻿  SnakeGame.cpp
+c:\projects\consolesnakegame\snakegame\consolesetting.h(25): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\consolesetting.h(39): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+c:\projects\consolesnakegame\snakegame\input.h(14): warning C4091: static : пропускается слева от "Input", когда ни одна переменная не объявлена
+  Создание кода
+  1 of 47 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SnakeGame.vcxproj -> C:\Projects\ConsoleSnakeGame\SnakeGame\Release\SnakeGame.exe

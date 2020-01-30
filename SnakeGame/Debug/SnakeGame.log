@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+c:\projects\consolesnake\snakegame\consolesetting.h(25): warning C4091: static : пропускается слева от "Color::ConsoleColor", когда ни одна переменная не объявлена
+c:\projects\consolesnake\snakegame\consolesetting.h(39): warning C4091: static : пропускается слева от "ConsoleSetting", когда ни одна переменная не объявлена
+  SnakeGame.vcxproj -> C:\Projects\ConsoleSnake\SnakeGame\Debug\SnakeGame.exe
